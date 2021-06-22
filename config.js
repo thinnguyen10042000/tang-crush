@@ -10,10 +10,10 @@ const CONFIG = {
     btnYes: 'Vẫn cứ là yêu anh nhiềuu <3',
     btnNo: 'Không, yêu ít à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <3333333',
+    btnReply: 'Gửi cho anhh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <3',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc: 'Công chúa xiu ngủ ngon nhaaa <3333.',
+    btnAccept: 'Okiee lun <3',
     messLink: 'https://www.facebook.com/messages/t/100012736872719/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
