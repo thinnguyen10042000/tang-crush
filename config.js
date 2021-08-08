@@ -1,8 +1,9 @@
 const CONFIG = {
     introTitle: 'Em yêu ơiiiii!',
-    introDesc: `Em biết không. Khi em cười với tôi 
-    -Thì tôi cứ như hoà làm 1 với Pu-skin 
-    -Vì trong đầu tôi lúc đó đã hiện lên một tuyệt tác mang tên "Tôi yêu em"`,
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
